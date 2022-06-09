@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Documents\SharpDevelop Projects\UAS PV\UAS PV\obj\Debug\UAS PV.csprojResolveAssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\SharpDevelop Projects\UAS PV\UAS PV\obj\Debug\UAS_PV.MainForm.resources
+C:\Users\ACER\OneDrive\Documents\SharpDevelop Projects\UAS PV\UAS PV\obj\Debug\UAS PV.csproj.GenerateResource.Cache
+C:\Users\ACER\OneDrive\Documents\SharpDevelop Projects\UAS PV\UAS PV\bin\Debug\UAS PV.exe
+C:\Users\ACER\OneDrive\Documents\SharpDevelop Projects\UAS PV\UAS PV\bin\Debug\UAS PV.pdb
+C:\Users\ACER\OneDrive\Documents\SharpDevelop Projects\UAS PV\UAS PV\obj\Debug\UAS PV.exe
+C:\Users\ACER\OneDrive\Documents\SharpDevelop Projects\UAS PV\UAS PV\obj\Debug\UAS PV.pdb
